@@ -1,13 +1,18 @@
 {
-  "name": "vijaycs85/drupal-quality-checker",
+  "name": "janoka/drupal-quality-checker",
   "type": "project",
-  "description": "Setups code quality checking tools for Drupal project.",
-  "homepage": "https://github.com/vijaycs85/drupal-quality-checker",
+  "description": "Replacement of https://github.com/vijaycs85/drupal-quality-checker.",
+  "homepage": "https://github.com/janoka/drupal-quality-checker",
   "license": "MIT",
   "authors": [
     {
       "name": "Vijaya Chandran Mani",
       "homepage": "https://www.drupal.org/u/vijaycs85",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Janos Kuszing",
+      "homepage": "https://www.drupal.org/u/janoka",
       "role": "Maintainer"
     }
   ],
